@@ -1,0 +1,26 @@
+.container {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  height: auto;
+  padding: 60px 0;
+  border: solid 2px white;
+  border-radius: 20px;
+  background-color: rgb(47, 103, 185);
+}
+
+#search-form {
+  border: none;
+  border-radius: 16px;
+  padding: 20px;
+}
+.submit {
+  color: rgb(50, 50, 250);
+}
+.current-city {
+  font-size: 220 %;
+  font: bold;
+  font-family: "Roboto", sans-serif;
+  padding: 0 30px 0 200px;
+}
